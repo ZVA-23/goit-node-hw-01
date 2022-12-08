@@ -10,7 +10,7 @@ node index.js --action list
  
 [![Get all contacts in table][1]][1]
  
-[1]: https://i.ibb.co/7twVPbs/get-all-contacts.jpg
+[1]: https://ibb.co/7twVPbs/get-all-contacts.jpg
  
 </details>
 
