@@ -21,7 +21,7 @@ node index.js --action list
 node index.js --action get --id 5
 ```
 
-<img src="https://i.ibb.co/9W1VmfB/get-contact-by-id.jpg" alt="getById" />
+<img src="https://i.ibb.co/9W1VmfB" alt="getById" />
 
 ### Add contact
 
