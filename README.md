@@ -14,7 +14,6 @@ node index.js --action list
  
 </details>
 
-<img src="https://i.ibb.co/7twVPbs/get-all-contacts.jpg" alt="list" border="6" />
 
 ### Get contact by id
 
