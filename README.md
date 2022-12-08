@@ -6,6 +6,14 @@
 node index.js --action list
 ```
 
+<details>
+ 
+[![Get all contacts in table][1]][1]
+ 
+[1]: https://i.ibb.co/7twVPbs/get-all-contacts.jpg
+ 
+</details>
+
 <img src="https://i.ibb.co/7twVPbs/get-all-contacts.jpg" alt="list" border="6" />
 
 ### Get contact by id
