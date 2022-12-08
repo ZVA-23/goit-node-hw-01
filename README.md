@@ -6,7 +6,7 @@
 node index.js --action list
 ```
 
-<img src="https://i.ibb.co/7twVPbs/get-all-contacts.jpg" alt="list" border="1" />
+<img src="https://i.ibb.co/7twVPbs/get-all-contacts.jpg" alt="list" border="6" />
 
 ### Get contact by id
 
